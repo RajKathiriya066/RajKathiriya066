@@ -6,7 +6,10 @@ I am a student with strong interest in Java, Python, Android development and Spr
 ## My Skills:
 ![My Skills](https://skillicons.dev/icons?i=java,python,androidstudio,firebase,postgres,spring)
 
-## My GitHub Stats:
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajKathiriya066&show_icons=true&theme=transparent)
+## My GitHub stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RajKathiriya066&show_icons=true&theme=transparent)
 
-![LeetCode Stats:](https://leetcard.jacoblin.cool/rajkathiriya66?ext=contest)(https://leetcode.com/rajkathiriya66)
+## My LeetCode stats: 
+![LeetCode stats](https://leetcard.jacoblin.cool/rajkathiriya66?ext=contest)(https://leetcode.com/rajkathiriya66)
+
+## Linked Profile: (https://skillicons.dev/icons?i=linkedin)(www.linkedin.com/in/raj-kathiriya)
