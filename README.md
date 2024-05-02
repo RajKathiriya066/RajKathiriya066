@@ -10,4 +10,7 @@ I am a student with strong interest in Java, Python, Android development and Spr
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RajKathiriya066&show_icons=true&theme=transparent)
 
 ## My LeetCode stats: 
-![LeetCode stats](https://leetcard.jacoblin.cool/rajkathiriya66?ext=contest)(https://leetcode.com/rajkathiriya66)
+[![LeetCode stats](https://leetcard.jacoblin.cool/rajkathiriya66?ext=contest)](https://leetcode.com/rajkathiriya66)
+
+## Linked Profile:
+<a href="www.linkedin.com/in/raj-kathiriya">![](https://skillicons.dev/icons?i=linkedin)</a>
