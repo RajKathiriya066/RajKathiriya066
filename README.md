@@ -8,6 +8,5 @@ I am a student with strong interest in Java, Python, Android development and Spr
 
 ## My GitHub Stats:
 ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajKathiriya066&show_icons=true&theme=transparent)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
 
-![](https://leetcard.jacoblin.cool/rajkathiriya66?ext=contest)
+![LeetCode Stats:](https://leetcard.jacoblin.cool/rajkathiriya66?ext=contest)(https://leetcode.com/rajkathiriya66)
